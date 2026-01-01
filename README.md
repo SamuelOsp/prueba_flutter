@@ -1,16 +1,21 @@
 # flutter_application_1
 
-A new Flutter project.
+Aplicación desarrollada con **Flutter**, creada como proyecto base para el desarrollo de aplicaciones móviles multiplataforma (Android, iOS, Web y Desktop).
 
-## Getting Started
+## 📱 Descripción
 
-This project is a starting point for a Flutter application.
+Este proyecto sirve como punto de partida para una aplicación Flutter. Incluye la estructura básica recomendada y está listo para ser extendido con nuevas pantallas, lógica de negocio y servicios.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Antes de comenzar, asegúrate de tener instalado:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (versión estable)
+- Dart SDK
+- Android Studio / VS Code
+- Emulador o dispositivo físico
+
+Verifica la instalación ejecutando:
+
+```bash
+flutter doctor
